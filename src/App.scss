@@ -1,0 +1,197 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1042px;
+  margin: 0 auto;
+}
+.main-page {
+  padding: 10px 0;
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+  }
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  line-height: 1.2;
+}
+// Header
+.page-header {
+  background: #252525;
+  color: #fff;
+  padding: 10px 0;
+  min-height: 25vh;
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    h1 {
+      font-size: 30px;
+      padding: 30px;
+      font-weight: bold;
+    }
+  }
+}
+// Sliders
+.main-banner {
+  background: #f2f2f2;
+  .banner {
+    padding: 10px 0;
+    background: #f2f2f2;
+    height: 400px;
+    position: relative;
+    .banner-prev,
+    .banner-next {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100px;
+      height: 100%;
+      font-size: 60px;
+      color: #252525;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+    }
+    .banner-prev:focus,
+    .banner-next:focus {
+      outline: none;
+      color: #000;
+    }
+    .banner-next {
+      right: 0;
+      left: auto;
+    }
+    .banner-slides {
+      position: relative;
+      height: 100%;
+      margin: 0 100px;
+      .banner-slide {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        transition: 0.4s opacity;
+        opacity: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        p {
+          span {
+            font-weight: bold;
+          }
+        }
+        .slider-number {
+          color: #e94949;
+          font-weight: bold;
+          font-size: 80px;
+          padding: 20px 0;
+        }
+      }
+      .banner-slide-active {
+        opacity: 1;
+      }
+    }
+  }
+}
+// Footer
+.footer {
+  background: #252525;
+  padding: 10px 0;
+  .row-footer {
+    // height: 13em;
+    min-height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .footer-text {
+      color: #fff;
+      font-weight: bold;
+      font-size: 30px;
+      padding: 10px 0;
+    }
+    a {
+      color: #fff;
+      text-decoration: none;
+      display: inline-block;
+      border-radius: 100px;
+      text-transform: uppercase;
+      padding: 15px 25px;
+      background: #e94949;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    }
+  }
+}
+// Choose the chart page
+.choose-chart-main {
+  padding: 10px 0;
+  height: 100vh;
+  background-image: url("~./img2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  .choose-chart {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .choose-chart-text {
+      font-weight: bold;
+      color: #fff;
+      font-size: 80px;
+      padding: 30px 0;
+    }
+    .choose-chart-links {
+      a {
+        color: #fff;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 100px;
+        text-transform: uppercase;
+        padding: 15px 25px;
+        background: #e94949;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+        margin: 0 50px;
+      }
+    }
+  }
+}
+
+// Wykresy
+.sectors {
+  //background: #f2f2f2;
+  .sectors-forms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .forms {
+      form {
+        padding: 20px 10px;
+        text-align: left;
+      }
+      label {
+        display: block;
+      }
+    }
+  }
+}
+// Footer w wykresach
+.footer-chart {
+  background: #252525;
+  min-height: 15em;
+  p {
+    padding: 10px 0;
+    color: #fff;
+  }
+}

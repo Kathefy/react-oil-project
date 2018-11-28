@@ -1,0 +1,4114 @@
+{
+  "oil": [
+    {
+      "year": "2017",
+      "number": 14.2,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 14.5,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 13.9,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 12.7,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 11.4,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 10.2,
+      "sector": "Road transportation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 6.7,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 6.7,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 6.4,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 5.8,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 5.1,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 4.5,
+      "sector": "Road transportation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 2.8,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 2.7,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 2.6,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 2.2,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 1.9,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 1.6,
+      "sector": "Road transportation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 23.7,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 23.8,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 22.8,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 20.7,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 18.4,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 16.2,
+      "sector": "Road transportation",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 2.8,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 2.9,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 3.1,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 3.2,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 3.2,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 3.3,
+      "sector": "Road transportation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 1.7,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 1.9,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 2.1,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 2.4,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 2.7,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 3.0,
+      "sector": "Road transportation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 1.7,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 2.1,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 2.7,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 3.5,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 4.3,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 5.2,
+      "sector": "Road transportation",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 5.1,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 5.5,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 6.3,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 6.8,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 7.3,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 7.5,
+      "sector": "Road transportation",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 3.2,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 3.5,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 4.1,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 4.6,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 5.0,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 5.4,
+      "sector": "Road transportation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 3.3,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 3.5,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 3.8,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 4.2,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 4.5,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 4.7,
+      "sector": "Road transportation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 17.9,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 19.4,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 22.1,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 24.6,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 27.0,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 29.1,
+      "sector": "Road transportation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 1.1,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 1.1,
+      "sector": "Road transportation",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 1.0,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 1.1,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 1.2,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 1.3,
+      "sector": "Road transportation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 2.0,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 2.2,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 2.3,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 2.4,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 2.4,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 2.4,
+      "sector": "Road transportation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 43.6,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 45.3,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 47.2,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 47.7,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 47.8,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 47.8,
+      "sector": "Road transportation",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 1.9,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 1.9,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 2.0,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 2.0,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 2.1,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 2.0,
+      "sector": "Aviation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 1.3,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 1.3,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 1.4,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 1.4,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 1.5,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 1.5,
+      "sector": "Aviation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.6,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.6,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.6,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.7,
+      "sector": "Aviation",
+      "region": "OECD Asia Oceania"
+    },
+    { "year": "2017", "number": 3.7, "sector": "Aviation", "region": "OECD" },
+    { "year": "2020", "number": 3.8, "sector": "Aviation", "region": "OECD" },
+    { "year": "2025", "number": 4.0, "sector": "Aviation", "region": "OECD" },
+    { "year": "2030", "number": 4.0, "sector": "Aviation", "region": "OECD" },
+    { "year": "2035", "number": 4.2, "sector": "Aviation", "region": "OECD" },
+    { "year": "2040", "number": 4.2, "sector": "Aviation", "region": "OECD" },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.4,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.4,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 0.4,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Aviation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.3,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.4,
+      "sector": "Aviation",
+      "region": "Middle East and Africa"
+    },
+    { "year": "2017", "number": 0.2, "sector": "Aviation", "region": "India" },
+    { "year": "2020", "number": 0.2, "sector": "Aviation", "region": "India" },
+    { "year": "2025", "number": 0.3, "sector": "Aviation", "region": "India" },
+    { "year": "2030", "number": 0.4, "sector": "Aviation", "region": "India" },
+    { "year": "2035", "number": 0.5, "sector": "Aviation", "region": "India" },
+    { "year": "2040", "number": 0.5, "sector": "Aviation", "region": "India" },
+    { "year": "2017", "number": 0.6, "sector": "Aviation", "region": "China" },
+    { "year": "2020", "number": 0.7, "sector": "Aviation", "region": "China" },
+    { "year": "2025", "number": 0.8, "sector": "Aviation", "region": "China" },
+    { "year": "2030", "number": 0.9, "sector": "Aviation", "region": "China" },
+    { "year": "2035", "number": 0.9, "sector": "Aviation", "region": "China" },
+    { "year": "2040", "number": 1.0, "sector": "Aviation", "region": "China" },
+    {
+      "year": "2017",
+      "number": 0.8,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 0.8,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 0.9,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 1.0,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 1.1,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 1.2,
+      "sector": "Aviation",
+      "region": "Other Asia"
+    },
+    { "year": "2017", "number": 0.4, "sector": "Aviation", "region": "OPEC" },
+    { "year": "2020", "number": 0.4, "sector": "Aviation", "region": "OPEC" },
+    { "year": "2025", "number": 0.5, "sector": "Aviation", "region": "OPEC" },
+    { "year": "2030", "number": 0.6, "sector": "Aviation", "region": "OPEC" },
+    { "year": "2035", "number": 0.6, "sector": "Aviation", "region": "OPEC" },
+    { "year": "2040", "number": 0.7, "sector": "Aviation", "region": "OPEC" },
+    {
+      "year": "2017",
+      "number": 2.4,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 2.6,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 3.1,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 3.5,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 3.9,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 4.3,
+      "sector": "Aviation",
+      "region": "Developing countries"
+    },
+    { "year": "2017", "number": 0.2, "sector": "Aviation", "region": "Russia" },
+    { "year": "2020", "number": 0.3, "sector": "Aviation", "region": "Russia" },
+    { "year": "2025", "number": 0.3, "sector": "Aviation", "region": "Russia" },
+    { "year": "2030", "number": 0.3, "sector": "Aviation", "region": "Russia" },
+    { "year": "2035", "number": 0.4, "sector": "Aviation", "region": "Russia" },
+    { "year": "2040", "number": 0.4, "sector": "Aviation", "region": "Russia" },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Aviation",
+      "region": "Other Eurasia"
+    },
+    { "year": "2017", "number": 0.3, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2020", "number": 0.3, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2025", "number": 0.4, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2030", "number": 0.4, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2035", "number": 0.5, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2040", "number": 0.5, "sector": "Aviation", "region": "Eurasia" },
+    { "year": "2017", "number": 6.3, "sector": "Aviation", "region": "World" },
+    { "year": "2020", "number": 6.7, "sector": "Aviation", "region": "World" },
+    { "year": "2025", "number": 7.5, "sector": "Aviation", "region": "World" },
+    { "year": "2030", "number": 7.9, "sector": "Aviation", "region": "World" },
+    { "year": "2035", "number": 8.6, "sector": "Aviation", "region": "World" },
+    { "year": "2040", "number": 9.0, "sector": "Aviation", "region": "World" },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 0.6,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 0.8,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 0.8,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 0.8,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 0.7,
+      "sector": "Marine bunkers",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 1.6,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 1.6,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 1.6,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 1.6,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 1.5,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Marine bunkers",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.4,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 0.4,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Middle East and Africa"
+    },
+    {
+      "year": "2017",
+      "number": 0.0,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 0.0,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 0.0,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 0.0,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 0.4,
+      "sector": "Marine bunkers",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 1.1,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 1.2,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 1.3,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 1.4,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 1.6,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 1.7,
+      "sector": "Marine bunkers",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 0.6,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 0.6,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 0.7,
+      "sector": "Marine bunkers",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 2.2,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 2.3,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 2.7,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 3.0,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 3.2,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 3.4,
+      "sector": "Marine bunkers",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.3,
+      "sector": "Marine bunkers",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 4.0,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 4.2,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 4.6,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 4.8,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 4.9,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 5.1,
+      "sector": "Marine bunkers",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 3.0,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 3.3,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 3.4,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 3.5,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 3.5,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 3.4,
+      "sector": "Petrochemicals",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 1.8,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 1.9,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 1.9,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 1.8,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 1.8,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 1.8,
+      "sector": "Petrochemicals",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 2.1,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 2.1,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 2.1,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 2.1,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 2.2,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 2.2,
+      "sector": "Petrochemicals",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 6.8,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 7.2,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 7.4,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 7.4,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 7.4,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 7.4,
+      "sector": "Petrochemicals",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.4,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 0.4,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 0.4,
+      "sector": "Petrochemicals",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.0,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 0.4,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 0.6,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 0.9,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 1.0,
+      "sector": "Petrochemicals",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 1.8,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 2.0,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 2.2,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 2.4,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 2.6,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 2.7,
+      "sector": "Petrochemicals",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 1.3,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 1.4,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 1.6,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 1.7,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 1.9,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 2.0,
+      "sector": "Petrochemicals",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 1.3,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 1.4,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 1.6,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 1.9,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 2.3,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 2.7,
+      "sector": "Petrochemicals",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 5.1,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 5.6,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 6.3,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 7.2,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 8.2,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 9.0,
+      "sector": "Petrochemicals",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 1.0,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 1.0,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.0,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.0,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.0,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.0,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Petrochemicals",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 1.0,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 1.1,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 1.2,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 1.2,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 1.2,
+      "sector": "Petrochemicals",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 13.0,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 13.9,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 14.8,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 15.9,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 16.8,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 17.5,
+      "sector": "Petrochemicals",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 0.5,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 0.4,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 0.4,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 0.8,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 0.8,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 0.6,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 0.6,
+      "sector": "Rail and domestic waterways",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 0.6,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 0.6,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 0.7,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 0.8,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 0.9,
+      "sector": "Rail and domestic waterways",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 1.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 1.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 1.2,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 1.3,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Rail and domestic waterways",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.0,
+      "sector": "Rail and domestic waterways",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Rail and domestic waterways",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 1.8,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 1.9,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 2.0,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 2.1,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 2.1,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 2.1,
+      "sector": "Rail and domestic waterways",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 2.9,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 3.0,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 2.9,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 2.9,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 2.8,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 2.8,
+      "sector": "Other industry",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 1.5,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 1.5,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.7,
+      "sector": "Other industry",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 5.3,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 5.4,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 5.2,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 5.1,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 5.0,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 4.9,
+      "sector": "Other industry",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.6,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.6,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.6,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.8,
+      "sector": "Other industry",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 1.1,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 1.2,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 1.3,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 1.9,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 2.0,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 2.0,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 1.8,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 1.8,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 1.9,
+      "sector": "Other industry",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 1.1,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 1.1,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 1.1,
+      "sector": "Other industry",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 1.3,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 1.4,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 1.6,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 1.7,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 1.7,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 1.7,
+      "sector": "Other industry",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 6.5,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 6.9,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 7.2,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 7.5,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 7.7,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 8.0,
+      "sector": "Other industry",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.4,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.4,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Other industry",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.9,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 1.0,
+      "sector": "Other industry",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 12.7,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 13.3,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 13.4,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 13.6,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 13.7,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 13.9,
+      "sector": "Other industry",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 1.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 1.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 1.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 1.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 1.5,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 1.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 1.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 1.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 1.5,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 1.5,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 1.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 4.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 4.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 4.1,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 3.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 3.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 3.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 1.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 1.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 1.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 1.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 1.1,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 1.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 1.5,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 1.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 1.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 2.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 2.2,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 2.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 2.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 2.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 2.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 0.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 0.9,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 5.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 6.1,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 6.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 7.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 7.8,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 8.2,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.4,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 0.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.7,
+      "sector": "Residential/commercial/agriculture",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 10.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 11.1,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 11.6,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 12.0,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 12.2,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 12.3,
+      "sector": "Residential/commercial/agriculture",
+      "region": "World"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "OECD America"
+    },
+    {
+      "year": "2017",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2020",
+      "number": 0.4,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2025",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD Europe"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2025",
+      "number": 0.4,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2030",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "OECD Asia Oceania"
+    },
+    {
+      "year": "2017",
+      "number": 1.1,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2020",
+      "number": 1.2,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2025",
+      "number": 0.9,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2030",
+      "number": 0.8,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2035",
+      "number": 0.7,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "OECD"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2025",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2030",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2035",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2040",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Latin America"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2025",
+      "number": 0.6,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2030",
+      "number": 0.7,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2035",
+      "number": 0.8,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2040",
+      "number": 0.8,
+      "sector": "Electricity generation",
+      "region": "Middle East And Africa"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "India"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "China"
+    },
+    {
+      "year": "2017",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2020",
+      "number": 0.5,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2025",
+      "number": 0.4,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2030",
+      "number": 0.4,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2035",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2040",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "Other Asia"
+    },
+    {
+      "year": "2017",
+      "number": 1.9,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2020",
+      "number": 1.9,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2025",
+      "number": 1.9,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2030",
+      "number": 1.7,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2035",
+      "number": 1.5,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2040",
+      "number": 1.3,
+      "sector": "Electricity generation",
+      "region": "OPEC"
+    },
+    {
+      "year": "2017",
+      "number": 3.7,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2020",
+      "number": 3.9,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2025",
+      "number": 3.8,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2030",
+      "number": 3.7,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2035",
+      "number": 3.5,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2040",
+      "number": 3.2,
+      "sector": "Electricity generation",
+      "region": "Developing countries"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2020",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2040",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "Russia"
+    },
+    {
+      "year": "2017",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.1,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.0,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.0,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.0,
+      "sector": "Electricity generation",
+      "region": "Other Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2020",
+      "number": 0.3,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2025",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2030",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2035",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2040",
+      "number": 0.2,
+      "sector": "Electricity generation",
+      "region": "Eurasia"
+    },
+    {
+      "year": "2017",
+      "number": 5.1,
+      "sector": "Electricity generation",
+      "region": "World"
+    },
+    {
+      "year": "2020",
+      "number": 5.4,
+      "sector": "Electricity generation",
+      "region": "World"
+    },
+    {
+      "year": "2025",
+      "number": 5.0,
+      "sector": "Electricity generation",
+      "region": "World"
+    },
+    {
+      "year": "2030",
+      "number": 4.7,
+      "sector": "Electricity generation",
+      "region": "World"
+    },
+    {
+      "year": "2035",
+      "number": 4.3,
+      "sector": "Electricity generation",
+      "region": "World"
+    },
+    {
+      "year": "2040",
+      "number": 4.0,
+      "sector": "Electricity generation",
+      "region": "World"
+    }
+  ]
+}
