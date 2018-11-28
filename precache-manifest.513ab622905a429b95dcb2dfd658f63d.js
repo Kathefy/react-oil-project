@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-oil-project/static/css/main.208dbef8.chunk.css"
   },
   {
-    "revision": "f38316cb63094cdabbc16f150e8bb1d2",
+    "revision": "d7472026928c8559d8845bd23dd289db",
     "url": "/react-oil-project/index.html"
   }
 ];
