@@ -1,51 +1,57 @@
+$colorLight: #fff;
+$colorDark: #252525;
+$colorBackground: #f2f2f2;
+$colorAccent: #e94949;
+
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .container {
-  width: 1042px;
+  max-width: 1042px;
   margin: 0 auto;
 }
-.main-page {
-  padding: 10px 0;
-  a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #fff;
-    font-weight: bold;
-    font-size: 15px;
-  }
-}
-
 body {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   line-height: 1.2;
 }
+.main-page {
+  text-align: left;
+  padding: 30px;
+  a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: $colorLight;
+    font-weight: bold;
+  }
+}
 // Header
 .page-header {
-  background: #252525;
-  color: #fff;
+  background: $colorDark;
+  color: $colorLight;
   padding: 10px 0;
-  min-height: 25vh;
-  .header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-    h1 {
-      font-size: 30px;
-      padding: 30px;
-      font-weight: bold;
-    }
+  text-align: center;
+  h1 {
+    font-size: 30px;
+    padding: 30px;
+    font-weight: bold;
+    margin: auto;
+    width: 60%;
+  }
+  p {
+    margin: auto;
+    width: 80%;
+    padding-bottom: 30px;
   }
 }
 // Sliders
 .main-banner {
-  background: #f2f2f2;
+  background: $colorBackground;
   .banner {
-    padding: 10px 0;
-    background: #f2f2f2;
     height: 400px;
     position: relative;
     .banner-prev,
@@ -56,7 +62,7 @@ body {
       width: 100px;
       height: 100%;
       font-size: 60px;
-      color: #252525;
+      color: $colorDark;
       border: 0;
       background: transparent;
       cursor: pointer;
@@ -86,15 +92,16 @@ body {
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        text-align: center;
         p {
           span {
             font-weight: bold;
           }
         }
         .slider-number {
-          color: #e94949;
+          color: $colorAccent;
           font-weight: bold;
-          font-size: 80px;
+          //font-size: 80px;
           padding: 20px 0;
         }
       }
@@ -104,33 +111,44 @@ body {
     }
   }
 }
+@media only screen and (max-width: 600px) {
+  .slider-number {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .slider-number {
+    font-size: 60px;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .slider-number {
+    font-size: 80px;
+  }
+}
+
 // Footer
 .footer {
-  background: #252525;
-  padding: 10px 0;
-  .row-footer {
-    // height: 13em;
-    min-height: 25vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    .footer-text {
-      color: #fff;
-      font-weight: bold;
-      font-size: 30px;
-      padding: 10px 0;
-    }
-    a {
-      color: #fff;
-      text-decoration: none;
-      display: inline-block;
-      border-radius: 100px;
-      text-transform: uppercase;
-      padding: 15px 25px;
-      background: #e94949;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
-    }
+  background: $colorDark;
+  padding: 50px 0;
+  text-align: center;
+  .footer-text {
+    color: $colorLight;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+  }
+  a {
+    display: inline-block;
+    margin: auto;
+    color: $colorLight;
+    text-decoration: none;
+    border-radius: 100px;
+    text-transform: uppercase;
+    padding: 15px 25px;
+    background: $colorAccent;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
   }
 }
 // Choose the chart page
@@ -140,35 +158,60 @@ body {
   background-image: url("~./img2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  .choose-chart {
-    height: 90vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    .choose-chart-text {
-      font-weight: bold;
-      color: #fff;
-      font-size: 80px;
-      padding: 30px 0;
-    }
-    .choose-chart-links {
-      a {
-        color: #fff;
-        text-decoration: none;
-        display: inline-block;
-        border-radius: 100px;
-        text-transform: uppercase;
-        padding: 15px 25px;
-        background: #e94949;
-        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
-        margin: 0 50px;
+  .container {
+    height: 100%;
+    .choose-chart {
+      height: 70%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      .choose-chart-text {
+        font-weight: bold;
+        color: $colorLight;
+        padding: 30px 0;
+      }
+      .choose-chart-links {
+        a {
+          color: $colorLight;
+          text-decoration: none;
+          border-radius: 100px;
+          text-transform: uppercase;
+          padding: 15px 25px;
+          background: $colorAccent;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+          margin: 10px 50px;
+        }
       }
     }
   }
 }
-
-// Wykresy
+@media only screen and (max-width: 600px) {
+  .choose-chart-links {
+    a {
+      display: block;
+    }
+  }
+  .choose-chart-text {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .choose-chart-links {
+    a {
+      display: inline-block;
+    }
+  }
+  .choose-chart-text {
+    font-size: 60px;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .choose-chart-text {
+    font-size: 80px;
+  }
+}
+// Graphics
 .sectors {
   //background: #f2f2f2;
   .sectors-forms {
