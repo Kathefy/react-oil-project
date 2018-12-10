@@ -19,7 +19,7 @@ body {
 }
 .main-page {
   text-align: left;
-  padding: 30px;
+  padding: 30px 0;
   a {
     display: inline-block;
     padding: 10px;
@@ -27,6 +27,14 @@ body {
     text-transform: uppercase;
     color: $colorLight;
     font-weight: bold;
+  }
+}
+.clearfix {
+  &:before,
+  &:after {
+    clear: both;
+    display: table;
+    content: "";
   }
 }
 // Header
@@ -70,7 +78,6 @@ body {
     .banner-prev:focus,
     .banner-next:focus {
       outline: none;
-      color: #000;
     }
     .banner-next {
       right: 0;
@@ -101,7 +108,6 @@ body {
         .slider-number {
           color: $colorAccent;
           font-weight: bold;
-          //font-size: 80px;
           padding: 20px 0;
         }
       }
@@ -111,22 +117,6 @@ body {
     }
   }
 }
-@media only screen and (max-width: 600px) {
-  .slider-number {
-    font-size: 40px;
-  }
-}
-@media only screen and (min-width: 600px) {
-  .slider-number {
-    font-size: 60px;
-  }
-}
-@media only screen and (min-width: 800px) {
-  .slider-number {
-    font-size: 80px;
-  }
-}
-
 // Footer
 .footer {
   background: $colorDark;
@@ -173,6 +163,7 @@ body {
       }
       .choose-chart-links {
         a {
+          display: inline-block;
           color: $colorLight;
           text-decoration: none;
           border-radius: 100px;
@@ -186,7 +177,82 @@ body {
     }
   }
 }
+// Graphics
+.sectors {
+  padding: 30px 0;
+  min-height: 460px;
+  .forms {
+    form {
+      width: 70%;
+      margin: auto;
+      padding: 30px 0;
+    }
+    label {
+      display: block;
+    }
+  }
+  .chart {
+    padding: 10px;
+  }
+}
+// Footer in Graphicss
+.footer-chart {
+  background: $colorDark;
+  min-height: 100px;
+  p {
+    padding: 10px 0;
+    color: $colorLight;
+  }
+}
+// Page not found
+.not-found {
+  background-image: url("~./img2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+
+    h3 {
+      font-weight: bold;
+      color: $colorLight;
+      text-transform: uppercase;
+    }
+    p {
+      font-weight: bold;
+      color: $colorLight;
+      font-size: 30px;
+    }
+    a {
+      display: inline-block;
+      color: $colorLight;
+      text-decoration: none;
+      border-radius: 100px;
+      text-transform: uppercase;
+      padding: 15px 25px;
+      background: $colorAccent;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      margin: 10px 50px;
+    }
+  }
+}
 @media only screen and (max-width: 600px) {
+  .not-found {
+    h3 {
+      font-size: 40px;
+    }
+  }
+  .forms {
+    float: none;
+  }
+  .chart {
+    float: none;
+  }
   .choose-chart-links {
     a {
       display: block;
@@ -195,8 +261,22 @@ body {
   .choose-chart-text {
     font-size: 40px;
   }
+  .slider-number {
+    font-size: 40px;
+  }
 }
 @media only screen and (min-width: 600px) {
+  .not-found {
+    h3 {
+      font-size: 60px;
+    }
+  }
+  .forms {
+    float: none;
+  }
+  .chart {
+    float: none;
+  }
   .choose-chart-links {
     a {
       display: inline-block;
@@ -205,36 +285,28 @@ body {
   .choose-chart-text {
     font-size: 60px;
   }
+  .slider-number {
+    font-size: 60px;
+  }
 }
 @media only screen and (min-width: 800px) {
+  .not-found {
+    h3 {
+      font-size: 80px;
+    }
+  }
+  .forms {
+    float: left;
+    width: 40%;
+  }
+  .chart {
+    float: left;
+    width: 60%;
+  }
   .choose-chart-text {
     font-size: 80px;
   }
-}
-// Graphics
-.sectors {
-  //background: #f2f2f2;
-  .sectors-forms {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    .forms {
-      form {
-        padding: 20px 10px;
-        text-align: left;
-      }
-      label {
-        display: block;
-      }
-    }
-  }
-}
-// Footer w wykresach
-.footer-chart {
-  background: #252525;
-  min-height: 15em;
-  p {
-    padding: 10px 0;
-    color: #fff;
+  .slider-number {
+    font-size: 80px;
   }
 }
